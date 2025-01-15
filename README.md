@@ -59,7 +59,7 @@ A simple and responsive task management app built with React.js and Redux. The a
 ## Screenshots
 
 - **Login Page**: Secure login with the provided credentials.
-- <img width="1440" alt="Screenshot 2025-01-15 at 10 11 11 PM" src="https://github.com/user-attachments/assets/b4d0cee2-b86c-46d4-95b4-5d47d5f9c515" />
+  <img width="1440" alt="Screenshot 2025-01-15 at 10 11 11 PM" src="https://github.com/user-attachments/assets/b4d0cee2-b86c-46d4-95b4-5d47d5f9c515" />
 
 - **Dashboard**: Manage tasks and track progress with charts.
   <img width="1440" alt="Screenshot 2025-01-15 at 10 10 30 PM" src="https://github.com/user-attachments/assets/c73359ad-96e0-426a-9a61-62a254e14c7d" />
